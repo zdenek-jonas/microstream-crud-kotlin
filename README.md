@@ -12,7 +12,7 @@ repositories {
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
-    implementation('one.microstream:storage.embedded:02.00.00-MS-GA')
+    implementation('one.microstream:storage.embedded:04.01.00-MS-GA')
 }
 ```
 
